@@ -1,6 +1,5 @@
 // https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1?page=1&status=attempted&sortBy=submissions
-// Microsoft
-// Amazon
+// Amazon, Microsoft
 
 struct Solution {
     
